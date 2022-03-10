@@ -10,4 +10,4 @@
 
 ## run index.js or build with limits of output 
 
-```` node inde.js 100 ````
+```` node index.js 100 ````
