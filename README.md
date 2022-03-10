@@ -10,4 +10,7 @@
 
 ## run index.js or build with limits of output 
 
-```` node index.js 100 ````
+```` node index.js 10 ````
+
+
+All outputs will be in output folder
