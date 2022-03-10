@@ -2,9 +2,12 @@
 
 ## install canvas package
 
-```` npm install ````
+```` npm install canvas ````
 
 ## run index.js or build
 
 ````node index.js ````
 
+## run index.js or build with limits of output 
+
+```` node inde.js 100 ````
